@@ -5,7 +5,7 @@
 * Attack pattern
 * min distance
 
-## Result
+## Result (434 best reward, episode 4)
 ### Test 1
 ![test1](./test_1.JPG)
 
